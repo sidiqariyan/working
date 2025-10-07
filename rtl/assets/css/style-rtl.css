@@ -1,0 +1,313 @@
+.saas_banner_content,
+.subcribes .form-control,
+.promo_tab_box .nav .nav-item .nav-link {
+  text-align: right;
+}
+.subcribes .form-control {
+  padding-left: 100px;
+  padding-right: 25px;
+}
+.subcribes .btn_submit {
+  right: auto;
+  left: 8px;
+}
+.saas_banner_content .subcribes_fetures_list li {
+  flex-direction: row-reverse;
+  display: flex;
+}
+.saas_banner_content .subcribes_fetures_list li i {
+  margin-right: 0px;
+  margin-left: 5px;
+}
+.saas_features_content {
+  padding-right: 0;
+  padding-left: 80px;
+}
+.saas_features_item.two .saas_features_content {
+  padding-right: 70px;
+  padding-left: 0px;
+}
+.saas_features_img {
+  justify-content: start;
+}
+.saas_list li .icon {
+  left: auto;
+  right: 0;
+}
+.saas_list li {
+  padding-left: 0;
+  padding-right: 45px;
+}
+.saas_list li:after {
+  left: auto;
+  right: 0;
+}
+.service_tab_item {
+  padding-left: 0;
+}
+.service_tab_content .accordion-item .tab_img {
+  max-width: 100%;
+}
+.service_tab_content .tab_item_content {
+  padding-left: 0;
+  padding-right: 70px;
+}
+.service_tab_content .accordion-item .flex-row-reverse .tab_item_content {
+  padding-left: 70px;
+  padding-right: 0;
+}
+.service_tab_content {
+  padding-right: 35px;
+}
+.faq_inner .accordion-item .accordion-header .accordion-button:after,
+.accordion-button::after {
+  margin-left: 0;
+}
+.newsletter_form .theme_btn {
+  left: 0;
+  right: auto;
+}
+.f_social_icon li:not(:last-child) {
+  margin-left: 15px;
+  margin-right: 0;
+}
+.navbar .navbar-brand {
+  margin-right: 0;
+}
+.menu > .nav-item {
+  margin-left: 0;
+  margin-right: 35px;
+}
+.app_promo_content {
+  padding-top: 0;
+}
+/* .title-animation {
+  direction: ltr;
+}
+.text-center .title-animation .split-line,
+.client_title.text-center.title-animation .split-line {
+  text-align: center !important;
+} */
+.promo_tab_box .nav {
+  padding: 0;
+}
+.title-animation .split-line {
+  text-align: right !important;
+}
+.promo_tab_image {
+  margin-right: 0;
+  margin-left: 12px;
+}
+.promo_tab_box .nav .nav-item .nav-link img {
+  margin-right: 0;
+  margin-left: 20px;
+}
+.features_tab_inner .nav .nav-item .nav-link .icon,
+.testimonial_slider_one .item .client_info img,
+.saas_accordion_item .accordion-header .accordion-button img,
+.fact_inner .skill_fact_item .number {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.features_tab_inner .saas_features_content .saas_list {
+  padding-right: 0;
+}
+.banner_subscribe .theme_btn {
+  margin-left: 0;
+  margin-right: 10px;
+}
+.subscribe_form .theme_btn {
+  right: auto;
+  left: 4px;
+}
+.subscribe_form .form-control {
+  padding-left: 150px;
+  padding-right: 25px;
+}
+.features_tab_inner .saas_features_content .saas_list li i {
+  left: auto;
+  right: 0;
+}
+.saas_accordion_item:before,
+.saas_accordion_item .accordion-item:before {
+  left: auto;
+  right: 0;
+}
+
+.banner_subscribe .btn_submit {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+.sass_banner_content .ratting_icon a:first-child {
+  margin-right: 0;
+}
+.marquee {
+  direction: ltr;
+  transform: rotate(180deg);
+}
+.marquee .slide {
+  transform: rotate(-180deg);
+}
+.saas_accordion_item {
+  padding-right: 0;
+  padding-left: 40px;
+}
+.input_group img {
+  right: 25px;
+  left: auto;
+}
+.subcribes .form-control {
+  padding-right: 65px;
+  padding-left: 25px;
+}
+.features_list li i,
+.price_content .saas_price_item ul li i {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.saas_accordion_item_two {
+  padding-left: 40px;
+  padding-right: 0px;
+}
+.price_content .saas_price_item ul li i {
+  float: right;
+}
+.price_content .saas_price_item .price_header .badge {
+  right: auto;
+  left: 0;
+}
+.price_content .saas_price_item .price_header {
+  padding-right: 0;
+  padding-left: 50px;
+}
+.f_widget.f_about_widget {
+  padding-right: 0;
+  padding-left: 80px;
+}
+.app_banner_img .app_img {
+  margin-left: 0;
+  margin-right: 30px;
+}
+.app_features_item .app_features_content,
+.saas_about_content {
+  padding-left: 0;
+  padding-right: 50px;
+}
+.app_features_item .app_features_content .features_item_list:before {
+  left: auto;
+  right: 0;
+}
+.fun_fact_area {
+  direction: ltr;
+}
+.app_promo_content .title-animation {
+  direction: rtl;
+}
+.nav_right .signup_btn {
+  margin-left: 0;
+  margin-right: 8px;
+}
+.mission_content .nav-tabs .nav-item {
+  margin-right: 0;
+  margin-left: 40px;
+}
+.saas_price_item ul li i {
+  margin-left: 5px;
+  top: 7px;
+  position: relative;
+  float: right;
+}
+.blog_sidebar {
+  padding-right: 50px;
+  padding-left: 0;
+}
+.sidebar_widget .search-form button {
+  left: 0;
+  right: auto;
+}
+.sidebar_widget .recent_post_item .post_img {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.saas_breadcrumb_text .breadcrumb li + li:before {
+  right: -8px;
+  left: auto;
+}
+.saas_breadcrumb_text .breadcrumb li + li {
+  margin-right: 12px;
+  margin-left: 0;
+}
+.mission_content .tab-content .saas_list li {
+  padding-left: 0;
+}
+.mission_content .tab-content .saas_list li img {
+  left: auto;
+  right: 0;
+}
+.blog_navbar a.post_next i {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.blog_navbar a.post_prev i {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.comment_box .post_comment .comment .rounded-img {
+  margin-right: 0px;
+  margin-left: 25px;
+}
+.comment_box .post_comment .comment .comment_text .comment_reply i {
+  margin-left: 5px;
+  margin-right: 0;
+}
+.comment_box .post_comment .comment .comment_text .comment_reply {
+  float: left;
+}
+.saas_content {
+  padding-right: 0;
+  padding-left: 50px;
+}
+.contact_info_item .icon {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.banner_subscribe .form-control {
+  padding-right: 60px;
+  padding-left: 10px;
+}
+
+@media (max-width: 1480px) {
+  .saas_features_content {
+    padding-left: 0;
+  }
+}
+@media (max-width: 1199px) {
+  .menu > .nav-item {
+    margin-right: 10px;
+  }
+}
+@media (min-width: 992px) {
+  .menu > .nav-item.submenu .dropdown-menu {
+    left: auto;
+    right: -30px;
+  }
+}
+@media (max-width: 991px) {
+  .menu > .nav-item {
+    margin-right: 0;
+  }
+  .menu > .nav-item .mobile_dropdown_icon {
+    right: auto;
+    left: 10px;
+  }
+  .blog_sidebar {
+    padding-right: 0px;
+    padding-left: 0;
+  }
+}
+@media (max-width: 767px) {
+  .service_tab_button svg {
+    margin-right: 0px;
+    margin-left: 10px;
+  }
+}
